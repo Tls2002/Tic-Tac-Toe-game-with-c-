@@ -5,7 +5,6 @@
 #include <string>
 using namespace std;
 
-//Version 2
 int main() {
 
 	//Positions of the board
